@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UE/PortalDefense/Content/Custom/GUI/GUI_ResourceDisplay.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Data/E_BasicResourceTypes.uasset",
+				"C:/UE/PortalDefense/Content/Custom/GUI/GUI_IndividualResource.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Data/BP_AC_Resources.uasset",
+				"C:/UE/PortalDefense/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Data/BPI_Resource.uasset",
+				"C:/UE/PortalDefense/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Assets/BP_BaseInteractable.uasset",
+				"C:/UE/PortalDefense/Content/__ExternalActors__/TopDown/Lvl_TopDown/7/N3/19SVA4275M9VFFROG33RCW.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Assets/BP_Spawner.uasset",
+				"C:/UE/PortalDefense/Content/__ExternalActors__/TopDown/Lvl_TopDown/6/5S/ROF04U1ADVV55I2EDMYLHE.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Assets/BP_BasePickup.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Assets/BP_BasePurchase.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Data/BP_AC_Producers.uasset",
+				"C:/UE/PortalDefense/Content/__ExternalActors__/TopDown/Lvl_TopDown/6/7Q/HS0NU9TPINMUCNCB7S5Z26.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Data/BPI_Producers.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Assets/BP_BaseProducer.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Assets/BP_HideProducers.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Data/E_HideProducers.uasset",
+				"C:/UE/PortalDefense/Content/Custom/GUI/GUI_IndividualProducer.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Assets/BP_BuyProducer.uasset",
+				"C:/UE/PortalDefense/Content/__ExternalActors__/TopDown/Lvl_TopDown/7/N6/LZFICKVWUWE9TY3VGTHO4W.uasset",
+				"C:/UE/PortalDefense/Content/Custom/GUI/GUI_ProducerPanel.uasset",
+				"C:/UE/PortalDefense/Content/Custom/GUI/GUI_Resources.uasset",
+				"C:/UE/PortalDefense/Content/Custom/GUI/GUI_BaseDisplay.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Data/BP_SC_Resources.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Data/BP_BaseProducer.uasset"
+			]
+		}
+	]
+}
