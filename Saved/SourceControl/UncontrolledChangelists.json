@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/UE/PortalDefense/Content/Custom/GUI/GUI_ResourceDisplay.uasset",
 				"C:/UE/PortalDefense/Content/Custom/Data/E_BasicResourceTypes.uasset",
 				"C:/UE/PortalDefense/Content/Custom/GUI/GUI_IndividualResource.uasset",
 				"C:/UE/PortalDefense/Content/Custom/Data/BP_AC_Resources.uasset",
@@ -30,6 +29,14 @@
 				"C:/UE/PortalDefense/Content/Custom/GUI/GUI_ProducerPanel.uasset",
 				"C:/UE/PortalDefense/Content/Custom/GUI/GUI_Resources.uasset",
 				"C:/UE/PortalDefense/Content/Custom/GUI/GUI_BaseDisplay.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Data/S_BasePurchaseable.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Data/S_Producer.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Data/DT_Producers.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Data/S_Upgrades.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Data/BiomassProducers.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Data/BFL_ResourceIDMapping.uasset",
+				"C:/UE/PortalDefense/Content/Custom/Data/BML_ResourceIDMapping.uasset",
+				"C:/UE/PortalDefense/Content/Custom/GUI/GUI_ResourceDisplay.uasset",
 				"C:/UE/PortalDefense/Content/Custom/Data/BP_SC_Resources.uasset",
 				"C:/UE/PortalDefense/Content/Custom/Data/BP_BaseProducer.uasset"
 			]

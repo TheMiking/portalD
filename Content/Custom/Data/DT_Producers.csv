@@ -1,0 +1,42 @@
+﻿RowName,UUID,PurchaseResource,ResourceProduced,CostOfNextProducerMult,BaseAmountProduced,BaseMultiplier,Consumer,BaseCostToConsume,QuantityToProducePerConsumption,ResourceConsumedToProduce,ConsumptionMultipliers,Purchaseable
+test,test,NewEnumerator14(Biomass),NewEnumerator14 Biomass,1.05,1,1,FALSE,1,1,NewEnumerator14,1,TRUE
+Spore Pustules,Spore_Pustules,NewEnumerator14(Hide),NewEnumerator14 Hide,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Digestive Sludge Pool,Digestive_Sludge_Pool,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Flesh Vats,Flesh_Vats,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Biophage Jungle,Biophage_Jungle,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+World-Engulfing Maw,World-Engulfing_Maw,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Skin Shedder Node,Skin_Shedder_Node,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Flesh Husk Pods,Flesh_Husk_Pods,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Skin-Flayer Swarms,Skin-Flayer_Swarms,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Dermal Growth Fields,Dermal_Growth_Fields,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Oceans of Flensed Hide,Oceans_of_Flensed_Hide,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Splintered Bone Spikes,Splintered_Bone_Spikes,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Marrow Gnawers,Marrow_Gnawers,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Cranial Pits,Cranial_Pits,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Ossified Hives,Ossified_Hives,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Planetary Ossuary,Planetary_Ossuary,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Bloodied Meat Hooks,Bloodied_Meat_Hooks,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Strangling Sinew Vines,Strangling_Sinew_Vines,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Flesh Looms,Flesh_Looms,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Ligament Forges,Ligament_Forges,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+World-Sinew Web,World-Sinew_Web,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Chitinous Cysts,Chitinous_Cysts,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Molting Pits,Molting_Pits,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Scarab Feeding Hordes,Scarab_Feeding_Hordes,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Chitin Forges,Chitin_Forges,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Exoskeletal Continents,Exoskeletal_Continents,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Pulsing Organ Clots,Pulsing_Organ_Clots,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Viscera Nests,Viscera_Nests,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Gut Farms,Gut_Farms,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Heart Towers,Heart_Towers,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Planetary Offal Core,Planetary_Offal_Core,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Reptilian Slough,Reptilian_Slough,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Scale Husk Pods,Scale_Husk_Pods,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Serpentine Engorgers,Serpentine_Engorgers,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Draconic Tissue Forges,Draconic_Tissue_Forges,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+World-Dragon Skeleton,World-Dragon_Skeleton,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Horn Growths,Horn_Growths,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Claw Fields,Claw_Fields,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Ivory Hives,Ivory_Hives,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Keratin Forges,Keratin_Forges,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
+Horned World-Beast,Horned_World-Beast,NewEnumerator14,NewEnumerator14,1.05,1,1,FALSE,1,1,NewEnumerator14,1,FALSE
