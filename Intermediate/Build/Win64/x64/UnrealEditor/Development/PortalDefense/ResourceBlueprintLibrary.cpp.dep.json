@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ue\\portaldefense\\source\\portaldefense\\private\\resourceblueprintlibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue\\portaldefense\\intermediate\\build\\win64\\x64\\portaldefenseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\ue\\portaldefense\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\portaldefense\\definitions.portaldefense.h",
+            "c:\\ue\\portaldefense\\source\\portaldefense\\public\\resourceblueprintlibrary.h",
+            "c:\\ue\\portaldefense\\source\\portaldefense\\public\\resourcesubsystem.h",
+            "c:\\ue\\portaldefense\\intermediate\\build\\win64\\unrealeditor\\inc\\portaldefense\\uht\\resourcesubsystem.generated.h",
+            "c:\\ue\\portaldefense\\intermediate\\build\\win64\\unrealeditor\\inc\\portaldefense\\uht\\resourceblueprintlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

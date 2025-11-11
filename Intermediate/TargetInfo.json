@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PortalDefense",
+			"Path": "..\\Source\\PortalDefense.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PortalDefenseEditor",
+			"Path": "..\\Source\\PortalDefenseEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

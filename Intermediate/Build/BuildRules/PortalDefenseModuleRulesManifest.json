@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UE\\PortalDefense\\Source\\PortalDefense\\PortalDefense.Build.cs",
+		"C:\\UE\\PortalDefense\\Source\\PortalDefense.Target.cs",
+		"C:\\UE\\PortalDefense\\Source\\PortalDefenseEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

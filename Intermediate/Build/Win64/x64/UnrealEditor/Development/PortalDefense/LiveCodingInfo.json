@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PortalDefense.gen.cpp.obj": [
+			"PortalDefense.init.gen.cpp.obj",
+			"ResourceBlueprintLibrary.gen.cpp.obj",
+			"ResourceSubsystem.gen.cpp.obj"
+		]
+	}
+}
