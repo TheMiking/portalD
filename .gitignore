@@ -14,3 +14,5 @@ Content/Cursor
 Content/Developers
 Content/LevelPrototyping
 to_remove.txt
+.vs/
+.vsconfig
