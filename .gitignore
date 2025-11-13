@@ -1,2 +1,9 @@
 *Auto*.uasset
 *.log
+Binaries/
+Config/
+DerivedDataCache/
+Intermediate
+Saved/
+Source/
+Content/Custom
